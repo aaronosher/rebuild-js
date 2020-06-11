@@ -1,0 +1,17 @@
+{
+  "name": "rebuild-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rebuild-js": "bin/rebuild-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "private": "true",
+  "dependencies": {
+    "arg": "^4.1.3",
+    "esm": "^3.2.25"
+  }
+}
